@@ -22,4 +22,9 @@ Highest selling category?
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## dashboard
 <img width="1264" height="513" alt="dashboard" src="https://github.com/user-attachments/assets/990a0b3a-a24b-425d-af9c-024f3e57c7da" />
-
+##  Project Insight
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
