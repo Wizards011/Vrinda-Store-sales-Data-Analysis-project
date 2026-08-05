@@ -20,7 +20,9 @@ Highest selling category?
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
 ## dashboard
+
 <img width="1264" height="513" alt="dashboard" src="https://github.com/user-attachments/assets/990a0b3a-a24b-425d-af9c-024f3e57c7da" />
 ##  Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
